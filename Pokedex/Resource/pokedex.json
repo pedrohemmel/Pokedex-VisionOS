@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Pikachu",
+        "description": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+        "height": "0.4m",
+        "weight": "6.0kg",
+        "category": "Mouse",
+        "type": "Eletric",
+        "weaknesses": "Ground",
+        "urlImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+        "model3D": "pikachu"
+    },
+    {
+        "name": "Mewtwo",
+        "description": "Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different.",
+        "height": "2.0m",
+        "weight": "122.0kg",
+        "category": "Genetic",
+        "type": "Psychic",
+        "weaknesses": "Ghost",
+        "urlImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+        "model3D": "mewtwo"
+    },
+    {
+        "name": "Bulbasaur",
+        "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+        "height": "0.7m",
+        "weight": "6.9kg",
+        "category": "Seed",
+        "type": "Grass",
+        "weaknesses": "Fire",
+        "urlImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "model3D": "bulbasaur"
+    },
+    {
+        "name": "Charmander",
+        "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+        "height": "0.6m",
+        "weight": "8.5kg",
+        "category": "Lizard",
+        "type": "Fire",
+        "weaknesses": "Water",
+        "urlImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+        "model3D": "charmander"
+    },
+    {
+        "name": "Flareon",
+        "description": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit.",
+        "height": "0.9m",
+        "weight": "25.0kg",
+        "category": "Flame",
+        "type": "Fire",
+        "weaknesses": "Water",
+        "urlImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
+        "model3D": "flareon"
+    },
+    {
+        "name": "Ivysaur",
+        "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+        "height": "1.0m",
+        "weight": "13.0kg",
+        "category": "Seed",
+        "type": "Grass",
+        "weaknesses": "Fire",
+        "urlImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+        "model3D": "ivysaur"
+    },
+    {
+        "name": "Snorlax",
+        "description": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+        "height": "2.1m",
+        "weight": "460.0kg",
+        "category": "Sleeping",
+        "type": "Normal",
+        "weaknesses": "Fighting",
+        "urlImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+        "model3D": "snorlax"
+    }
+]
+

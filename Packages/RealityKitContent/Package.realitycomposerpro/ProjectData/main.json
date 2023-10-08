@@ -1,0 +1,19 @@
+{
+  "pathsToIds" : {
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "440DE5B4-E4E4-459B-AABF-9ACE96319272",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "34C460AE-CA1B-4348-BD05-621ACBDFFE97",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "03E02005-EFA6-48D6-8A76-05B2822A74E9",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/bulbasaur.usdc" : "E51DB9C3-E81F-4642-A9CB-D086BE4D0C53",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/charmander.usdc" : "FB089A06-B136-4C04-A87B-6C41EF0462D6",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/flareon.usdc" : "2B25DB9A-4EA6-4784-B762-261A0352E63D",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "FBD8436F-6B8B-4B82-99B5-995D538B4704",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/island.usdc" : "863C3FD7-A8A1-4FA0-9E69-3670B01AFBDA",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/ivysaur.usdc" : "D807A653-5551-4A23-8E52-BA39DF8AF4D3",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/mewtwo.usdc" : "C1BA72F5-C357-48E2-B863-17F14692FD35",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/pikachu.usdc" : "E8F62C1E-9001-4240-81A9-D6C78DF24C0F",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "1CBF3893-ABFD-408C-8B91-045BFD257808",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "26DBAE76-5DD8-47B6-A085-1B4ADA111097",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/snorlax.usdc" : "DF99CD5F-C5E9-4DF5-B9B3-D37CC041AD94"
+  }
+}
